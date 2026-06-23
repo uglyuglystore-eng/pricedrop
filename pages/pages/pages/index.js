@@ -1,0 +1,1 @@
+export default function Home(){return(<div style={{fontFamily:'sans-serif',padding:20,textAlign:'center'}}><h1 style={{color:'#E52222'}}>🔥 Price Drop</h1><p>Tienda funcionando</p><a href="/admin">Panel Admin</a></div>)}
